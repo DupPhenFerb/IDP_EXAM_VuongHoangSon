@@ -1,4 +1,4 @@
-package com.example.User.Entity;
+package com.IDP.Dupphenferb.Entity;
 
 public class MessageResponse {
     private String message;

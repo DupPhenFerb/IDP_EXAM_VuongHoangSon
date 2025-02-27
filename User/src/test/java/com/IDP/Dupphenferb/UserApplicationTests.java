@@ -1,4 +1,4 @@
-package com.example.User;
+package com.IDP.Dupphenferb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

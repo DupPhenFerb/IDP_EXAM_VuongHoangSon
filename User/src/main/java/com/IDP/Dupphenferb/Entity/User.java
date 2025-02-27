@@ -1,9 +1,6 @@
-package com.example.User.Entity;
+package com.IDP.Dupphenferb.Entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
 
 
 @Entity
@@ -30,7 +27,7 @@ public class User {
         Currency = currency;
     }
 
-    public long getId() {
+    public  long getId() {
         return id;
     }
 
